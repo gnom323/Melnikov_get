@@ -1,0 +1,6 @@
+print(bin(5))
+print(9 << 1)
+print(bin(9))
+print(bin(18))
+print(hex(201))
+print()
